@@ -9,3 +9,63 @@
 a {
     text-decoration: none;
 }
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+}
+
+.header-proper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header-proper .logo {
+    font-weight: 300;
+}
+
+.header-proper h1 {
+    padding: 20px 0;
+}
+
+.scroll-line {
+    height: 2px;
+    margin-bottom: -2px;
+    background: #000;
+    width: 0;
+}
+
+.content {
+    padding: 100px 0;
+    margin: 0 auto;
+    width: 80%;
+}
+
+p {
+    font-size: 120%;
+    margin-bottom: 10px;
+    font-weight: 300;
+    color: grey;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
